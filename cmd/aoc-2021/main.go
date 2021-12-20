@@ -1,9 +1,11 @@
 package main
 
 import (
-	"fmt"
+	"github.com/matthewrobertson/aoc-2021/pkg/day4"
 )
 
 func main() {
-	fmt.Println("hello world")
+
+	day4.Part2()
+
 }
